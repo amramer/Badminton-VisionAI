@@ -1,9 +1,3 @@
-<div align="center">
-
-<p align="center">
-  <img src="assets/logo.png" width="50%">
-</p>
-
 
 # 𝗕𝗮𝗱𝗺𝗶𝗻𝘁𝗼𝗻-𝗩𝗶𝘀𝗶𝗼𝗻𝗔𝗜
 ### AI-Powered Badminton Performance Analysis System
@@ -12,6 +6,12 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Tracking-green)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+
+<div align="center">
+
+<p align="center">
+  <img src="assets/logo.png" width="50%">
+</p>
 
 **Real-time computer vision analytics for badminton**
 
